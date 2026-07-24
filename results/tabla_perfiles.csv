@@ -1,0 +1,4 @@
+Tipo,Total,Bajo_Rendimiento,Tasa_media,Permanentes,Prop_Bajo_Rend,Prop_Perm
+Independiente,316,90,0.4340314309967489,121,28.5,38.3
+Mejora con Carga,463,121,0.37764883264883264,37,26.1,8.0
+Sobrecarga,607,48,0.6579711067562729,369,7.9,60.8
